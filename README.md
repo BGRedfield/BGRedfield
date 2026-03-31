@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&animation=fadeIn"/>
+
+<br>
+
 <!-- CABEÇALHO COM FOTO E NOME -->
 <div align="center">
   <img src="https://github.com/BGRedfield.png" width="120px" style="border-radius:50%" />
@@ -5,13 +10,15 @@
   <p>💻 Graphic design is my passion 🖌️</p>
 </div>
 
-<h1 align="center">👋 Olá, eu sou o BG</h1>
+<h1 align="center">👋Eu sou o Arthur, Beleza?</h1>
 <p align="center">✝️ Glória a Deus</p>
 
-<!-- GITHUB STATS + LINGUAGENS -->
+<br>
+
+<!-- GITHUB STATS + JAVA CARD -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BGRedfield&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGRedfield&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BGRedfield&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BGRedfield&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&ring_color=ff8c00&custom_title=Java%20Nivel%203%20-%20Basico"/>
 </div>
 
 <br>
@@ -30,5 +37,4 @@
 
 <br>
 
-<!-- FUNÇÃO DECORATIVA (opcional) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&animation=fadeIn"/>
